@@ -1,0 +1,6 @@
+pandas
+google-genai
+python-dotenv
+streamlit # If you build the Streamlit app
+# tenacity # Good for retrying API calls
+

@@ -1,0 +1,31 @@
+Query ID,Customer Query,Category,Answer
+Q001,My refund has still not been processed after several days.,Refund Issues,We apologize for the delay. Your refund is being processed and should reflect in your account within 5-7 business days.
+Q002,"The order status shows delivered, but I did not receive the package.",Delivery Issues,We are sorry for the inconvenience. Our logistics team is investigating the status of your package and will provide an update shortly.
+Q003,I am unable to log into my account even after resetting the password.,Account/Login Problems,"Please try clearing your browser cache or app data. If resetting your password doesn't work, please contact our technical support for further assistance."
+Q004,The payment was deducted twice for the same transaction.,Payment Issues,We have recorded the transaction issue. Any duplicate or failed charges will be automatically reversed within 3-5 working days.
+Q005,OTP is not being received on my registered mobile number.,Technical Problems,Our technical team is working to resolve this issue as quickly as possible. Please try again in a few hours or update your app.
+Q006,The product received is different from the images shown online.,Product Quality,We regret the inconvenience. Please upload a photo of the product in the 'Returns' section of our app to initiate a replacement or refund.
+Q007,The application keeps crashing during checkout.,Technical Problems,Our technical team is working to resolve this issue as quickly as possible. Please try again in a few hours or update your app.
+Q008,My subscription was renewed automatically without permission.,Subscription Issues,We have noted your concern regarding the subscription. Our team will review the renewal and get back to you with a resolution.
+Q009,The delivery date keeps changing repeatedly.,Delivery Issues,We are sorry for the inconvenience. Our logistics team is investigating the status of your package and will provide an update shortly.
+Q010,Customer support is not responding to my complaint.,Customer Support,We sincerely apologize for the delay in our response. Your ticket has been escalated to a senior representative who will contact you shortly.
+Q011,The coupon code is showing invalid even though it is active.,Offer/Coupon Issues,"Please check the terms and conditions of the coupon. If it still doesn't work, please share a screenshot of the error with our support team."
+Q012,The item arrived damaged and replacement is delayed.,Product Quality,We regret the inconvenience. Please upload a photo of the product in the 'Returns' section of our app to initiate a replacement or refund.
+Q013,My account was blocked without explanation.,Account/Login Problems,"Please try clearing your browser cache or app data. If resetting your password doesn't work, please contact our technical support for further assistance."
+Q014,The tracking information is not updating.,Delivery Issues,We are sorry for the inconvenience. Our logistics team is investigating the status of your package and will provide an update shortly.
+Q015,The return pickup has not been scheduled yet.,Refund Issues,We apologize for the delay. Your refund is being processed and should reflect in your account within 5-7 business days.
+Q016,The invoice downloaded from the portal is incorrect.,Billing Issues,We have received your request regarding the incorrect invoice. A corrected version will be uploaded to your portal within 24 hours.
+Q017,The service request has been pending for too long.,Customer Support,We sincerely apologize for the delay in our response. Your ticket has been escalated to a senior representative who will contact you shortly.
+Q018,The app is very slow after the latest update.,Technical Problems,Our technical team is working to resolve this issue as quickly as possible. Please try again in a few hours or update your app.
+Q019,I was charged but the order was never confirmed.,Payment Issues,We have recorded the transaction issue. Any duplicate or failed charges will be automatically reversed within 3-5 working days.
+Q020,The cancellation request is not reflecting in the system.,Refund Issues,We apologize for the delay. Your refund is being processed and should reflect in your account within 5-7 business days.
+Q021,Unable to update my registered email address.,Account/Login Problems,"Please try clearing your browser cache or app data. If resetting your password doesn't work, please contact our technical support for further assistance."
+Q022,The website is not loading properly on mobile devices.,Technical Problems,Our technical team is working to resolve this issue as quickly as possible. Please try again in a few hours or update your app.
+Q023,I received an incomplete order.,Delivery Issues,We are sorry for the inconvenience. Our logistics team is investigating the status of your package and will provide an update shortly.
+Q024,The support ticket was closed without resolution.,Customer Support,We sincerely apologize for the delay in our response. Your ticket has been escalated to a senior representative who will contact you shortly.
+Q025,Cashback has not been credited to my account.,Payment Issues,We have recorded the transaction issue. Any duplicate or failed charges will be automatically reversed within 3-5 working days.
+Q026,The replacement request is taking too much time.,Refund Issues,We apologize for the delay. Your refund is being processed and should reflect in your account within 5-7 business days.
+Q027,The search feature is not showing relevant results.,Technical Problems,Our technical team is working to resolve this issue as quickly as possible. Please try again in a few hours or update your app.
+Q028,I accidentally placed the wrong order and cannot modify it.,Order Management,Orders can typically be modified or cancelled within a short window after placement. Please reach out to our chat support for immediate assistance.
+Q029,My saved payment methods disappeared from the account.,Payment Issues,We have recorded the transaction issue. Any duplicate or failed charges will be automatically reversed within 3-5 working days.
+Q030,Notifications are not being received from the application.,Technical Problems,Our technical team is working to resolve this issue as quickly as possible. Please try again in a few hours or update your app.
